@@ -493,10 +493,10 @@ hr{
 
 #footer-kontakt{
     width: 320px;
-    height: 270px;
+    height: 248px;
     padding-top: 22px;
     text-align: center;
-    font-size: 17px;
+    font-size: 19px;
 }
 
 
@@ -520,7 +520,7 @@ hr{
 
 #footer-social{
     width: 320px;
-    height: 270px;
+    height: 255px;
     padding-top: 15px;
     display: flex;
     justify-content: space-around;
